@@ -1,5 +1,5 @@
-Lana ima 1 pobjeda i 1 poraza!
-Lucas ima 1 pobjeda i 1 poraza!
+Lana ima 2 pobjeda i 1 poraza!
+Lucas ima 1 pobjeda i 2 poraza!
 
 . . O
 X X O
